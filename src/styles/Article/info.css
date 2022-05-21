@@ -1,0 +1,33 @@
+#info{
+    text-align: center;
+    border-bottom: 1px solid white;
+
+}
+
+#links{
+    display: flex;
+    justify-content: center;
+}
+
+#btn1{
+    background-color: white;
+    
+}
+
+#btn2{
+    background-color: white;
+    
+}
+
+a{
+    color: #1a1b21;
+    text-decoration: none;
+}
+
+.btn{
+    padding: 3px;
+    margin: 30px;
+    cursor: pointer;
+    border-radius: 3px;
+    border: none;
+}
