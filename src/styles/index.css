@@ -9,14 +9,13 @@
 }
 
 body{
-    background-color: #23252c;
+    background-color: #1a1b21;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 #container{
-    margin: 1%;
-    border: 1px solid white;
-    height: 98%;
+    /* border: 1px solid white; */
+    height: 100vh;
 }
